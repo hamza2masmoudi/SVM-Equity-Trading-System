@@ -1,0 +1,23 @@
+SVM Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.46      0.72      0.56        64
+           1       0.60      0.33      0.43        82
+
+    accuracy                           0.50       146
+   macro avg       0.53      0.52      0.49       146
+weighted avg       0.54      0.50      0.48       146
+
+SVM Accuracy: 0.50
+
+Random Forest Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.42      0.47      0.44        64
+           1       0.54      0.49      0.51        82
+
+    accuracy                           0.48       146
+   macro avg       0.48      0.48      0.48       146
+weighted avg       0.49      0.48      0.48       146
+
+Random Forest Accuracy: 0.48
